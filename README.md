@@ -9,6 +9,7 @@ Objective-C是一门面向对象的动态编程语言，主要用于编写iOS和
 
 *	[Apple Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
 *	[Google Objective-C Style Guide](https://google-styleguide.googlecode.com/svn/trunk/objcguide.xml?showone=Line_Length#Line_Length)
+* [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide)
 
 本文主要整合了对上述文档的翻译、作者自己的编程经验和其他的相关资料，为公司总结出一份通用的编码规范。
 
